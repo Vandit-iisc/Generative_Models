@@ -5,7 +5,6 @@ import numpy
 from torch.utils.data import DataLoader, Dataset, TensorDataset
 from torchvision import transforms
 import os
-import idx2numpy
 import matplotlib.pyplot as plt
 from torchvision import datasets
 import kagglehub
